@@ -3,8 +3,8 @@ Dokumentation für wichtiges Projekt
 
 Inhalt:
 * einchecken
-* branches
 * uncommitted changes - jetzt aber richtig.
+* branches
 * mal sehen
 * branch wandert
 * neue Zeile
