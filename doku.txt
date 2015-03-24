@@ -3,7 +3,6 @@ Dokumentation für wichtiges Projekt
 
 Inhalt:
 * einchecken
-* branches
 * uncommitted changes - jetzt aber richtig.
 * mal sehen
 * branch wandert
