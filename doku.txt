@@ -2,7 +2,7 @@ Dokumentation für wichtiges Projekt
 ===================================
 
 Inhalt:
-* einchecken
+* einchecken Variante Hydrox
 * uncommitted changes - jetzt aber richtig.
 * branches
 * mal sehen
