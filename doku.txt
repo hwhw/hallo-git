@@ -3,7 +3,7 @@ Dokumentation für wichtiges Projekt
 
 Inhalt:
 * einchecken Variante HW und Hydrox
-* uncommitted changes - jetzt aber richtig!
+* uncommitted changes - jetzt aber richtig!?
 * branches
 * mal sehen
 * branch wandert
